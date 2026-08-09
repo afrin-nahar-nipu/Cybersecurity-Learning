@@ -1,0 +1,6 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated password history
+generated_passwords/passwords.txt
